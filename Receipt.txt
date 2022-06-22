@@ -1,0 +1,10 @@
+Order ID: 6
+
+Name: Doru Marginean
+Address: Strada Ceahlau 77
+Email: marginean.doru@student.utcluj.ro
+Phone : 0712345679
+
+Product: Pizza quatro stagioni
+Quantity: 3
+Price: 81.0
